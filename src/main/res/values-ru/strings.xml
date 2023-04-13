@@ -1,0 +1,25 @@
+<resources>
+
+
+    <string name="scanning">Идёт поиск&#8230;</string>
+    <string name="select_device">Куардисплей</string>
+    <string name="title_paired_devices">Подключенные устройства</string>
+    <string name="title_other_devices">Устройства поблизости</string>
+    <string name="button_scan">Найти устройство</string>
+
+    <string name="error_bluetooth_not_available">Bluetooth не доступен</string>
+    <string name="dialog_cancel">Отменить</string>
+    <string name="near_location">Поиск устройств поблизости считается разрешением на определение приблизительного местоположения.</string>
+
+    <string name="grant_permission">ПРЕДОСТАВИТЬ РАЗРЕШЕНИЕ</string>
+    <string name="open_bt_settings">Откройте настройки bluetooth</string>
+    <string name="hint_location_service_is_off">Включите определение местоположения. Поиск устройств поблизости считается разрешением на определение приблизительного местоположения.</string>
+    <string name="refresh">Обновить</string>
+
+
+    <string name="open_bluetooth_settings">Откройте настройки bluetooth</string>
+    <string name="faq_BT_12">Требуется для возможности подключения к сопряженным устройствам Bluetooth.</string>
+    <string name="bluetooth_must_be_on">Продолжение работы невозможно. Bluetooth должен быть включен.</string>
+
+
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+
+
+    <string name="scanning">Scanning Device &#8230;</string>
+    <string name="select_device">Select the connected device</string>
+    <string name="title_paired_devices">Match equipment</string>
+    <string name="title_other_devices">Other useful equipment</string>
+    <string name="button_scan">Scanning device</string>
+
+    <string name="error_bluetooth_not_available">Bluetooth is not available</string>
+
+    <string name="dialog_cancel">Cancel</string>
+    <string name="near_location">Finding nearby devices is considered permission to determine the approximate location.</string>
+    <string name="bt_class" translatable="false">Bt Class</string>
+
+
+    <string name="grant_permission">GRANT PERMISSION</string>
+    <string name="open_bt_settings">Open bluetooth settings</string>
+    <string name="refresh">Refresh</string>
+    <string name="hint_location_service_is_off">Turn on location detection or do three steps. 1) add bluetooth device 2) Return to this screen again. 3) Select your printer from the list of connected devices.</string>
+
+
+    <string name="open_bluetooth_settings">Open bluetooth settings</string>
+
+    <string name="bt_spp" translatable="false">SPP</string>
+    <string name="bt_ble" translatable="false">BLE</string>
+    <string name="bt_dual" translatable="false">DUAL</string>
+    <string name="bt_unknown" translatable="false">Unknown</string>
+    <string name="faq_BT_12">Required to be able to connect to paired Bluetooth devices.</string>
+    <string name="bluetooth_must_be_on">Continued work is not possible. Bluetooth must be on.</string>
+
+</resources>

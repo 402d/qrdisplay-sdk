@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1B4384</color>
+    <color name="colorPrimaryDark">#030D15</color>
+    <color name="colorAccent">#81befd</color>
+
+    <color name="text_color">#eeeeee</color>
+    <color name="color_important">#FFFFFF</color>
+    <color name="border_blue_btn">#A0A0A0</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#999999</color>
+    <color name="activity_background">#444444</color>
+
+
+</resources>
