@@ -1,6 +1,6 @@
 # qrdisplay-sdk
 
-'''
+```
 qrDisplay = new MertechQrDisplay(this);
 
 
@@ -48,5 +48,4 @@ qrDisplay.symbolFail();
 qrDisplay.cls();
 qrDisplay.sendBytes(bytes);
 
-
-'''
+```
